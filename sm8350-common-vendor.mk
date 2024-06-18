@@ -503,7 +503,6 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     CACertService \
     CneApp \
-    IFAAService \
     IWlanService \
     SoterService \
     TimeService \
